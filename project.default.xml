@@ -1,0 +1,18 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>
