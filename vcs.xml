@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Patrizio1301/LSTM.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aitoralmeida/c4a_behavior_recognition" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\patrizio.guagliardo\PycharmProjects" />
